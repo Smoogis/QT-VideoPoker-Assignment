@@ -8,4 +8,6 @@ public:
     VideoPokerGame();
 };
 
+// comment
+
 #endif // VIDEOPOKERGAME_H
