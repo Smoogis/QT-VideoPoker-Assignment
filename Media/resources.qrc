@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/media">
+        <file>banner.png</file>
+        <file>cardback.png</file>
+        <file>cardfront.png</file>
+        <file>cardfrontGray.png</file>
+        <file>cardfrontHold.png</file>
+        <file>paysheet1.png</file>
+        <file>resources.qrc</file>
+    </qresource>
+</RCC>

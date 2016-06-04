@@ -14,9 +14,19 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         Controller/mainview.cpp \
-    Model/videopokergame.cpp
+    Model/videopokergame.cpp \
+    Model/Hand.cpp \
+    Model/Card.cpp \
+    Model/Deck.cpp \
+
 
 HEADERS  += Controller/mainview.h \
-    Model/videopokergame.h
+    Model/videopokergame.h \
+    Model/Hand.h \
+    Model/Deck.h \
+    Model/Card.h
 
 FORMS    += View/mainview.ui
+
+RESOURCES += \
+    Media/resources.qrc
